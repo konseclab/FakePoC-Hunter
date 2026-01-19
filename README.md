@@ -22,7 +22,7 @@ FakePoC-Hunter は、高深刻度（High CVSS）のCVEに対する概念実証�
 ## セットアップ
 
 1. リポジトリをクローンします。
-2. 仮想環境を作成し、依存関係をインストールします（`requirements.txt` がある場合）。
+2. 仮想環境を作成し、依存関係をインストールします。
    ```bash
    python3 -m venv venv
    source venv/bin/activate
@@ -59,7 +59,7 @@ python3 main.py
 ## Analysis Results
 
 このコードを使って実際にFakePoCを調査した結果は以下のURLに掲載しています。
-- Analysis Results: https://konseclab.pages.dev/fakepoc-hunter/
+- Analysis Results: https://konseclab.pages.dev/posts/fakepoc-hunter/
 
 
 ## 免責事項
