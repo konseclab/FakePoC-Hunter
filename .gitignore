@@ -1,0 +1,9 @@
+results/
+test/
+trashresults/
+venv/
+__pycache__/
+*.pyc
+cloned_repos/
+.vscode/
+.env
